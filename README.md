@@ -1,3 +1,3 @@
-#CDAV Status
+# CDAV Status
 
-Script to get CDAV and output information
+Script to get CDAV status and output information
